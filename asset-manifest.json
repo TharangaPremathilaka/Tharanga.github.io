@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TharangaPremathilaka/Tharanga.github.io.git/static/css/main.89fe04ea.chunk.css",
+    "main.js": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/main.036ca313.chunk.js",
+    "main.js.map": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/main.036ca313.chunk.js.map",
+    "runtime-main.js": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/runtime-main.894c4f0f.js",
+    "runtime-main.js.map": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/runtime-main.894c4f0f.js.map",
+    "static/js/2.ec5f194e.chunk.js": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/2.ec5f194e.chunk.js",
+    "static/js/2.ec5f194e.chunk.js.map": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/2.ec5f194e.chunk.js.map",
+    "static/js/3.46865104.chunk.js": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/3.46865104.chunk.js",
+    "static/js/3.46865104.chunk.js.map": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/3.46865104.chunk.js.map",
+    "index.html": "/TharangaPremathilaka/Tharanga.github.io.git/index.html",
+    "static/css/main.89fe04ea.chunk.css.map": "/TharangaPremathilaka/Tharanga.github.io.git/static/css/main.89fe04ea.chunk.css.map",
+    "static/js/2.ec5f194e.chunk.js.LICENSE.txt": "/TharangaPremathilaka/Tharanga.github.io.git/static/js/2.ec5f194e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.894c4f0f.js",
+    "static/js/2.ec5f194e.chunk.js",
+    "static/css/main.89fe04ea.chunk.css",
+    "static/js/main.036ca313.chunk.js"
+  ]
+}
